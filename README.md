@@ -8,7 +8,7 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjWdxxvgY&#x2F;view?utm_content=DAFjWdxxvgY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Rustic Minimal Wedding Print Banner</a> by Mariam Adepoju
 
 <p>
-  <img src="https://www.canva.com/design/DAFjWdxxvgY/QAQg5ZiYjumzrptyhW2YUg/edit?utm_content=DAFjWdxxvgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+  <img src="[https://www.canva.com/design/DAFjWdxxvgY/QAQg5ZiYjumzrptyhW2YUg/edit?utm_content=DAFjWdxxvgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFjWdxxvgY/view?embed)"/>
 </p>
 
 - 👋 Hi, I’m Mariam Alli
