@@ -13,7 +13,7 @@
 
 # Skills
 {Operating System}
-![mac ](https://github.com/mariamALLI/mariamALLI/assets/81536650/39436463-ff7a-4325-9275-b2e1a3a8f503)
+- ![mac ](https://github.com/mariamALLI/mariamALLI/assets/81536650/39436463-ff7a-4325-9275-b2e1a3a8f503)
 
 
 🛠️{languages and tools: frontend}🛠️
