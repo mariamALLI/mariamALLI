@@ -28,6 +28,21 @@
 ![github](https://github.com/mariamALLI/mariamALLI/assets/81536650/6476f26a-4807-4465-b49d-a2c143d533a2)
 
 
+🌈💐{Design}🌈💐
+- ![figma](https://github.com/mariamALLI/mariamALLI/assets/81536650/f2a9278a-1ae4-444a-96c5-0ec748e29d80)
+![canva](https://github.com/mariamALLI/mariamALLI/assets/81536650/d69157f0-7858-4caf-9229-0b9dc30e7058)
+
+
+💻 Where I learnt how to code 💻
+- ![fcc](https://github.com/mariamALLI/mariamALLI/assets/81536650/799285ee-f4bf-47de-b6e7-2a584dda8765)
+![codeacdemy](https://github.com/mariamALLI/mariamALLI/assets/81536650/9c02371d-c14a-4ede-8d41-dc6eec493897)
+![udemy](https://github.com/mariamALLI/mariamALLI/assets/81536650/989bf21c-1069-4222-bf50-e58a7e44278f)
+![scrimba](https://github.com/mariamALLI/mariamALLI/assets/81536650/a7ecc6c7-17e0-4326-9eb5-07916d0cbdc0)
+
+
+
+
+
 
 
 
