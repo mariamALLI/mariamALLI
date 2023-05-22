@@ -17,7 +17,7 @@
 
 
 🛠️{languages and tools: frontend}🛠️
-![html](https://github.com/mariamALLI/mariamALLI/assets/81536650/6c713c1b-475b-4ed3-802e-14feb8eb4a7d)
+**![html](https://github.com/mariamALLI/mariamALLI/assets/81536650/6c713c1b-475b-4ed3-802e-14feb8eb4a7d)**
 ![css](https://github.com/mariamALLI/mariamALLI/assets/81536650/d4c655b1-160b-4f10-890b-d2740f2cc9e2)
 ![javascript](https://github.com/mariamALLI/mariamALLI/assets/81536650/ebea9edb-8500-46d5-81f6-a9bfa8dd59bf)
 ![markdown](https://github.com/mariamALLI/mariamALLI/assets/81536650/4114e00f-92f8-457a-9167-e05796ddd3dd)
