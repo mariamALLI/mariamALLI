@@ -1,4 +1,6 @@
-https://www.canva.com/design/DAFjWdxxvgY/QAQg5ZiYjumzrptyhW2YUg/edit?utm_content=DAFjWdxxvgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<p>
+  <img src="https://www.canva.com/design/DAFjWdxxvgY/QAQg5ZiYjumzrptyhW2YUg/edit?utm_content=DAFjWdxxvgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+</p>
 
 - 👋 Hi, I’m Mariam Alli
 - 👀 I’m interested in creating the wow effect of visual design...
