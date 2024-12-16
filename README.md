@@ -21,7 +21,6 @@
 ![css](https://github.com/mariamALLI/mariamALLI/assets/81536650/d4c655b1-160b-4f10-890b-d2740f2cc9e2)
 ![javascript](https://github.com/mariamALLI/mariamALLI/assets/81536650/ebea9edb-8500-46d5-81f6-a9bfa8dd59bf)
 ![markdown](https://github.com/mariamALLI/mariamALLI/assets/81536650/4114e00f-92f8-457a-9167-e05796ddd3dd)
-![Bootstrap-563D7C](https://github.com/mariamALLI/mariamALLI/assets/81536650/d1d1dc86-267c-4eea-ae5a-b9222b929412)
 - ![git](https://github.com/mariamALLI/mariamALLI/assets/81536650/3dbee567-993b-4d60-8b47-398f94704431)
 ![react](https://github.com/mariamALLI/mariamALLI/assets/81536650/b7a62e5b-a728-4bd7-82f7-a970560e08f5)
 ![vscode](https://github.com/mariamALLI/mariamALLI/assets/81536650/5e263f27-c017-482d-865d-8bc226f96fbb)
@@ -33,12 +32,12 @@
 ![canva](https://github.com/mariamALLI/mariamALLI/assets/81536650/d69157f0-7858-4caf-9229-0b9dc30e7058)
 
 
-💻 Where I learnt how to code 💻
+💻 Where I learned/learning how to code 💻
 - ![fcc](https://github.com/mariamALLI/mariamALLI/assets/81536650/799285ee-f4bf-47de-b6e7-2a584dda8765)
 ![codeacdemy](https://github.com/mariamALLI/mariamALLI/assets/81536650/9c02371d-c14a-4ede-8d41-dc6eec493897)
 ![udemy](https://github.com/mariamALLI/mariamALLI/assets/81536650/989bf21c-1069-4222-bf50-e58a7e44278f)
 ![scrimba](https://github.com/mariamALLI/mariamALLI/assets/81536650/a7ecc6c7-17e0-4326-9eb5-07916d0cbdc0)
-
+- AltSchool Africa
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mariamAlli)
 
