@@ -8,7 +8,7 @@
 - 👀  I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.
 - 🖥️ Utilizing enterprise-level languages to deliver solutions with a customer-first approach
 - 🌱 Still learning frontend and I would love to learn UI designing soon
-- Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/)
+- Fun fact: I'm currently studying at AltSchool Africa 2024/25 [School of Software Engineering](https://engineering.altschoolafrica.com/)
 - 💞️ I’m looking to collaborate and engage in web development projects as I learn along ...
 
 
